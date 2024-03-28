@@ -1,0 +1,28 @@
+{
+  "name": "string-reverse-js",
+  "version": "1.0.2",
+  "description": "reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopikrishna500apps/string-reverse-js.git"
+  },
+  "keywords": [
+    "string",
+    "reverse",
+    "reverse-string",
+    "string-reverse"
+  ],
+  "author": "gopikrishna gurivisetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopikrishna500apps/string-reverse-js/issues"
+  },
+  "homepage": "https://github.com/Gopikrishna500apps/string-reverse-js#readme",
+  "dependencies": {
+    "string-reverse-js": "^1.0.0"
+  }
+}
