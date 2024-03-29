@@ -4,7 +4,7 @@
 Use this command for Installation
 
 ``` bash
-npm i string-reverse-js
+npm install string-reverse-js
 ```
 
 ## Usage
